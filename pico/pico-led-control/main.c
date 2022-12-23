@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "pico/stdlib.h"
+#include "pico/bootrom.h"
 
 #define LED_PIN 25
 
@@ -13,12 +14,16 @@ int main() {
   while(1) 
   {
   scanf("%1024s", buffer);
+  printf("%s\n", buffer);
   if (strcmp(buffer, "ON") == 0)
   {
      gpio_put(LED_PIN, 1);
   } else if (strcmp(buffer, "OFF") == 0)
   {
      gpio_put(LED_PIN, 0);
+  } else if (strcmp(buffer, "REBOOT") == 0)
+  {
+    reset_usb_boot(0,0);
   }
  }
 }
