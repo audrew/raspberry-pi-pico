@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+/home/audrew/Projects/system/raspberry-pi-pico/pico/pico-led-control/build/pico-sdk/src/rp2_common/cyw43_driver/CMakeFiles/PioasmBuild
+/home/audrew/Projects/system/raspberry-pi-pico/pico/pico-led-control/build/pico-sdk/src/rp2_common/cyw43_driver/CMakeFiles/PioasmBuild.rule
+/home/audrew/Projects/system/raspberry-pi-pico/pico/pico-led-control/build/pico-sdk/src/rp2_common/cyw43_driver/CMakeFiles/PioasmBuild-complete.rule
+/home/audrew/Projects/system/raspberry-pi-pico/pico/pico-led-control/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
+/home/audrew/Projects/system/raspberry-pi-pico/pico/pico-led-control/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+/home/audrew/Projects/system/raspberry-pi-pico/pico/pico-led-control/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+/home/audrew/Projects/system/raspberry-pi-pico/pico/pico-led-control/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+/home/audrew/Projects/system/raspberry-pi-pico/pico/pico-led-control/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+/home/audrew/Projects/system/raspberry-pi-pico/pico/pico-led-control/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+/home/audrew/Projects/system/raspberry-pi-pico/pico/pico-led-control/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule

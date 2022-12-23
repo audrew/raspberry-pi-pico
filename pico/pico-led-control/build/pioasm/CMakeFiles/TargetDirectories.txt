@@ -1,0 +1,3 @@
+/home/audrew/Projects/system/raspberry-pi-pico/pico/pico-led-control/build/pioasm/CMakeFiles/pioasm.dir
+/home/audrew/Projects/system/raspberry-pi-pico/pico/pico-led-control/build/pioasm/CMakeFiles/edit_cache.dir
+/home/audrew/Projects/system/raspberry-pi-pico/pico/pico-led-control/build/pioasm/CMakeFiles/rebuild_cache.dir
