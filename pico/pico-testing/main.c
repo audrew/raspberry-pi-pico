@@ -3,12 +3,10 @@
 
 int main() {
   stdio_init_all();
-  char buffer[1024];
 
   while(1) 
   {
-  scanf("%1024s", buffer);
-  printf("#s\n", buffer);
+  printf("Welcome to the world\n");
   sleep_ms(500);
   }
 }
