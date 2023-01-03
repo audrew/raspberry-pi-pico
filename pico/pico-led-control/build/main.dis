@@ -436,11 +436,11 @@ Disassembly of section .text:
 100003dc:	e7cf      	b.n	1000037e <main+0x22>
 100003de:	46c0      	nop			; (mov r8, r8)
 100003e0:	fffffbfc 	.word	0xfffffbfc
-100003e4:	0046464f 	.word	0x0046464f
+100003e4:	0066666f 	.word	0x0066666f
 100003e8:	10009bc8 	.word	0x10009bc8
-100003ec:	00004e4f 	.word	0x00004e4f
-100003f0:	4f424552 	.word	0x4f424552
-100003f4:	0000544f 	.word	0x0000544f
+100003ec:	00006e6f 	.word	0x00006e6f
+100003f0:	6f626572 	.word	0x6f626572
+100003f4:	0000746f 	.word	0x0000746f
 100003f8:	00004255 	.word	0x00004255
 
 100003fc <gpio_set_function>:
